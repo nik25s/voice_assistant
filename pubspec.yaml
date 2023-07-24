@@ -33,6 +33,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_translate: ^4.0.4
+  http: ^1.1.0
   speech_to_text: ^6.3.0
 
 dev_dependencies:
