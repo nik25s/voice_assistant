@@ -9,7 +9,7 @@ class AI extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Allen'),
+        title: Text('Allen.'),
         centerTitle: true,
         leading: Icon(Icons.menu),
       ),
